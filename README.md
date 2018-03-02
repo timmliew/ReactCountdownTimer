@@ -1,2 +1,0 @@
-# ReactCountdownTimer
-Created with CodeSandbox
